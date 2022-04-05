@@ -1,4 +1,4 @@
-# jdcrawler
+# jdcrawler爬取京东手机商品页面
 ## 一个由scrapy + tkinter组合而成的项目
 
 
